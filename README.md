@@ -23,7 +23,7 @@ OS
 ## リソース
 
 * [ArcGIS 開発者コミュニティ サイト](https://community.esri.com/t5/arcgis-%E9%96%8B%E7%99%BA%E8%80%85%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/ct-p/arcgis-japanese-developer-community)
-* [開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/tips/python/)
+* [ArcGIS Developer 開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/tips/python/)
 * [API リファレンス](https://developers.arcgis.com/python/api-reference/)
 * [環境構築](https://developers.arcgis.com/python/guide/install-and-set-up/)
 * [サンプルノートブック](https://developers.arcgis.com/python/sample-notebooks/)
