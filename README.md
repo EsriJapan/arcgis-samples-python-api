@@ -5,9 +5,9 @@ ArcGIS API for Python のサンプル集です。
 ## 使用している製品・プロジェクト
 
 * [ArcGIS API for Python](https://developers.arcgis.com/python/)
-* [ArcGIS for Developers](https://developers.arcgis.com/en/)
+* [ArcGIS Developer](https://developers.arcgis.com/)
 
-**ArcGIS の開発キットを使用して開発を行う場合は ArcGIS Online 開発者アカウント（[ArcGIS for Developers](https://developers.arcgis.com/en/)）が必要です。開発者アカウント作成ガイドは[こちら](http://esrijapan.github.io/arcgis-dev-resources/get-dev-account/)**
+**ArcGIS の開発キットを使用して開発を行う場合は ArcGIS Online 開発者アカウント（[ArcGIS Developer](https://developers.arcgis.com/)）が必要です。開発者アカウント作成ガイドは[こちら](http://esrijapan.github.io/arcgis-dev-resources/get-dev-account/)**
 
 ## 動作環境
 
@@ -22,8 +22,9 @@ OS
 
 ## リソース
 
-* [GeoNet 開発者コミュニティ サイト](https://geonet.esri.com/groups/devcom-jp)
-* [リファレンス](https://esri.github.io/arcgis-python-api/apidoc/html/)
+* [ArcGIS 開発者コミュニティ サイト](https://community.esri.com/t5/arcgis-%E9%96%8B%E7%99%BA%E8%80%85%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/ct-p/arcgis-japanese-developer-community)
+* [開発リソース集](https://esrijapan.github.io/arcgis-dev-resources/tips/python/)
+* [API リファレンス](https://developers.arcgis.com/python/api-reference/)
 * [環境構築](https://developers.arcgis.com/python/guide/install-and-set-up/)
 * [サンプルノートブック](https://developers.arcgis.com/python/sample-notebooks/)
 
