@@ -1,5 +1,5 @@
 # ArcGIS Field Maps で取得したトラッキングデータの保存とSpatially Enabled DataFrameを試す
-「ArcGIS Field Maps で取得したトラッキングデータの保存とSpatially Enabled DataFrameを試す」のブログで紹介した、サンプル ノートブックです。
+「ArcGIS Field Maps で取得したトラッキングデータの保存とSpatially Enabled DataFrameを試す」のブログで紹介した、[サンプル ノートブック](https://github.com/EsriJapan/arcgis-samples-python-api/blob/master/tracker/save-track-to-featurelayer.ipynb)です。
 
 ## 概要
 
